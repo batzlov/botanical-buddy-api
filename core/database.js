@@ -2,7 +2,7 @@ const { Sequelize, DataTypes } = require('sequelize');
 
 module.exports = function() 
 {
-    const sequelize = new Sequelize('gartenjeden', 'root', 'root', {
+    const sequelize = new Sequelize('botanical_buddy', 'root', 'root', {
         port: '3306',
         host: '127.0.0.1',
         dialect: 'mysql'

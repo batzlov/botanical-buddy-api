@@ -22,5 +22,5 @@ const router = new Router(app, routes, db);
 router.setup();
 
 http.listen(port, ip, () => {
-    console.log(`App is listening at https://garten-jeden.herokuapp.com/`);
+    console.log(`App is listening at https://botanical-buddy.herokuapp.com/`);
 });

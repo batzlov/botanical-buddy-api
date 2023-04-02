@@ -145,8 +145,7 @@ class HelperController extends Controller
 
     async b64toBlob(fileName) 
     {
-        const res = await fetch(`https://garten-jeden.herokuapp.com/uploads/`+fileName);
-        console.log('res HEEEEEEEELP!!! ->', res);
+        const res = await fetch(`https://botanical-buddy.herokuapp.com/uploads/`+fileName);
         return res.blob();
     };
 }

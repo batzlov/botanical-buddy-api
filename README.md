@@ -1,5 +1,5 @@
-# Garten Jeden API
-Garten Jeden API, ein Projekt von Robert Ackermann. Entwickelt mit NodeJS und Express. Made with ♥ and ☕ in Erfurt.
+# Botanical Buddy API
+Botanical Buddy API, ein Projekt von Robert Ackermann. Entwickelt mit NodeJS und Express. Made with ♥ and ☕ in Erfurt.
 
 ## Voraussetzungen
 Folgende Anwendungen müssen auf dem System installiert sein: mysql, NodeJS und npm.
@@ -7,11 +7,11 @@ Folgende Anwendungen müssen auf dem System installiert sein: mysql, NodeJS und 
 ## Installation
 Repository klonen:
 
-    git clone https://source.ai.fh-erfurt.de/ro1376ac/garten-jeden-api.git
+    git clone https://source.ai.fh-erfurt.de/ro1376ac/botanical-buddy-api.git
 
 Ins Verzeichnis wechseln:
 
-    cd garten-jeden-api
+    cd botanical-buddy-api
 
 Paketabhängigkeiten installieren: 
 
